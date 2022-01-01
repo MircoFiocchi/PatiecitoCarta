@@ -1,8 +1,19 @@
 .App {
   text-align: center;
+  background: #c2bebeee;
 }
 
 .whoWeAre {
-  padding: 90px;
-  background: darkgray;
+  padding: 10px;
+}
+
+.cardProducts {
+  padding: 10px;
+  display: grid;
+  place-content: center;
+}
+
+.cardProductsTypography {
+  text-align: left;
+  margin-bottom: 10px;
 }

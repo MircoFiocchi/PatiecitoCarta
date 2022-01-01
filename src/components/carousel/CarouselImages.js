@@ -22,6 +22,7 @@ const CarouselImages = () => {
       slideBackgroundColor="darkgrey"
       slideImageFit="cover"
       thumbnailWidth="100px"
+      showNavBtn={false}
     />
   );
 };
